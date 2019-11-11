@@ -12,7 +12,7 @@
     ?>
     <h1>Ejemplo PHP</h1>
     <?php 
-        echo 'Hola PHP';
+        echo 'Hola PHP Heroku';
     ?>
     <?php 
         include('pie.inc.php');
