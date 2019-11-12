@@ -2,7 +2,7 @@
 ?>
 
 <h1>Ejemplo Login</h1>
-<form action="validar-login.php">
+<form action="validar-login.php" method="POST">
     <label for="">Username</label>
     <input type="text" name="username">
     <label for="">Password</label>
