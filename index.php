@@ -14,6 +14,12 @@
     <?php 
         echo 'Hola PHP Heroku';
     ?>
+    <h2>Lista de ejemplos</h2>
+    <ol>
+        <li>
+            <a href="login.php"> Ejemplo Login</a>
+        </li>
+    </ol>
     <?php 
         include('pie.inc.php');
     ?>
