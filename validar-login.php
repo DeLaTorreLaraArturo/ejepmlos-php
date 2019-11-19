@@ -2,6 +2,8 @@
     /*
     echo 'Username =', $_POST['username'], '<br>';
     echo 'Password =', $_POST['password'];
+
+    CRUD Create-Read-Update-Delete
     */
 
     if($_POST['username'] == 'Lara' && $_POST['password'] == 12345){

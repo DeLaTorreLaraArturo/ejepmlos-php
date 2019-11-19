@@ -19,6 +19,9 @@
         <li>
             <a href="login.php"> Ejemplo Login</a>
         </li>
+        <li>
+            <a href="adivina.php">Adivina el numero</a>
+        </li>
     </ol>
     <?php 
         include('pie.inc.php');
